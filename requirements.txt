@@ -1,0 +1,15 @@
+openai
+langchain
+langchain-community
+langchain-core
+pydantic
+python-dotenv
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+jupyter
+ipykernel
+tqdm
+requests
