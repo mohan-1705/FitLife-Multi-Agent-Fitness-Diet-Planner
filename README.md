@@ -60,6 +60,7 @@ FitLife/
 ### 1. Clone the Repository
 
 git clone https://github.com/mohan-1705/FitLife-Multi-Agent-Fitness-Diet-Planner.git
+
 cd fitlife-agent
 
 2. Install Dependencies
