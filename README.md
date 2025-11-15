@@ -45,3 +45,86 @@ This project demonstrates how multiple intelligent agents can collaborate to cre
 ---
 
 ## 📂 **Project Structure**
+FitLife/
+│── fitlife_notebook.ipynb # Kaggle notebook
+│── data/ # Additional datasets (if used)
+│── models/ # Any saved models/files
+│── README.md # Documentation
+│── requirements.txt # Dependencies
+
+
+---
+
+## 🛠️ **How to Run the Project**
+
+### 1. Clone the Repository
+
+git clone https://github.com/yourusername/fitlife-agent.git
+cd fitlife-agent
+
+2. Install Dependencies
+pip install -r requirements.txt
+
+3. Open Notebook
+
+Run Jupyter or upload to Kaggle.
+
+🧪 Usage
+
+Enter user details like:
+
+Age
+
+Weight
+
+Height
+
+Fitness goal
+
+Diet preference
+
+The multi-agent system will return:
+
+Customized workout plan
+
+Full-day meal plan
+
+BMI + health insights
+
+Calorie intake recommendation
+
+📊 Outputs Example
+
+7-day workout plan
+
+Daily diet schedule
+
+BMI analysis graph
+
+Calories to consume (TDEE)
+
+AI-generated health recommendations
+
+🎯 Future Enhancements
+
+Step counter & calorie tracker
+
+Integration with wearable devices
+
+Web dashboard with charts
+
+Progress tracking agent
+
+Sleep pattern analysis
+
+🤝 Contributions
+
+Pull requests are welcome!
+Feel free to open an issue for ideas, bugs, or improvements.
+
+⭐ Show Your Support
+
+If you found this useful, please give a ⭐ to the repository!
+
+👤 Author
+Chodabathula Mohana Rangaji
