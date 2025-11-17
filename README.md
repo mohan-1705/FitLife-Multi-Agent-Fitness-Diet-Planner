@@ -1,5 +1,5 @@
 # 🏋️‍♂️ FitLife – Multi-Agent Fitness & Diet Planner  
-### Your AI-Powered Personalized Fitness Coach & Nutrition Planner
+### AI-Powered Personalized Fitness Coach & Nutrition Planner
 
 FitLife is an AI-driven **multi-agent system** designed to generate personalized workout routines, diet plans, BMI analysis, calorie tracking, and daily wellness recommendations.  
 This project demonstrates how multiple intelligent agents can collaborate to create a complete **fitness & wellness assistant**.
@@ -127,6 +127,3 @@ Feel free to open an issue for ideas, bugs, or improvements.
 
 If you found this useful, please give a ⭐ to the repository!
 
-👤 Author
-
-Chodabathula Mohana Rangaji
