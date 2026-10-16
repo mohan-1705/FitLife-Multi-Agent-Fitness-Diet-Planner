@@ -4,10 +4,9 @@
 FitLife is an AI-driven **multi-agent system** designed to generate personalized workout routines, diet plans, BMI analysis, calorie tracking, and daily wellness recommendations.  
 This project demonstrates how multiple intelligent agents can collaborate to create a complete **fitness & wellness assistant**.
 
-##Live Demo
-Live Demo: https://fitlife-multi-agent-fitness-diet-planner-app-app-al2hwlvuxcf7z.streamlit.app/
-
 ---
+## Live Demo
+Live Demo: https://fitlife-multi-agent-fitness-diet-planner-app-app-al2hwlvuxcf7z.streamlit.app/
 
 ## 🚀 Features
 
